@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, Ali Haidar 👋
 
-<!--
-**HaidarShah208/HaidarShah208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I,m a  Developer!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently Learning As MERN Stack.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems.
+- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
+- 👨‍🏫 **MERN** Stack Developer
+- (https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Eager to learn Mern stack developoing and AI learning.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me **alhi7896542@gmail.com**.
