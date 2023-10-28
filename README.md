@@ -16,8 +16,6 @@
 🎨 Portfolio: 
 
 - 🔭 Currently Learning As MERN Stack.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems.
-- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
 - 👨‍🏫 **MERN** Stack Developer
   .
 - 👯 I’m looking to collaborate with other content creators and developers.
