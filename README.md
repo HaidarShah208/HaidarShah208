@@ -73,13 +73,7 @@
     <td align='center'>
         <img src="https://th.bing.com/th/id/R.9ae8ceaa543d93d321a63d4f6f1b120d?rik=sL69WLL1AqP7vQ&pid=ImgRaw&r=0" alt="Postman"  width="150px" height="100px">
     </td>
-</tr>
-
-<tr>
-    <td align='center'>
-        <img src="https://camo.githubusercontent.com/a744f5d898da2607eec5c2639c4946136b5709b9ab4dbb43d7fb5086679e989f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f435f50726f6772616d6d696e675f4c616e67756167652e7376672f36343070782d435f50726f6772616d6d696e675f4c616e67756167652e7376672e706e67" alt="C"  width="150px" height="100px">
-    </td>
-    <td align='center' width="190">
+      <td align='center' width="190">
         <img src="https://camo.githubusercontent.com/7f08673c1a1e8adeefe7e7f8ca0571259418c4320cf821c95c93b0980d99ec87/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f36343070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" alt="C++"  width="150px" height="100px">
     </td>
 </tr>
