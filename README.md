@@ -53,6 +53,12 @@
     <td align='center'>
         <img src="https://th.bing.com/th/id/OIP.x8LjUUpPNMwrutD5mee2pwHaDy?pid=ImgDet&rs=1" alt="Firebase"  width="150px" height="100px">
     </td>
+   <td align='center'>
+        <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap 5"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="https://camo.githubusercontent.com/a769c0730c35b7533032dc86ee2505ff006d5cdf5f0eb40279a446fae2124b08/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f7072656d69756d2f706e672d3235362d7468756d622f736373732d332d3233363239342e706e67" alt="SCSS"  width="150px" height="100px">
+    </td>
 </tr>
 <tr>
     <td align='center'>
@@ -66,14 +72,6 @@
     </td>
     <td align='center'>
         <img src="https://th.bing.com/th/id/R.9ae8ceaa543d93d321a63d4f6f1b120d?rik=sL69WLL1AqP7vQ&pid=ImgRaw&r=0" alt="Postman"  width="150px" height="100px">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap 5"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://camo.githubusercontent.com/a769c0730c35b7533032dc86ee2505ff006d5cdf5f0eb40279a446fae2124b08/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f7072656d69756d2f706e672d3235362d7468756d622f736373732d332d3233363239342e706e67" alt="SCSS"  width="150px" height="100px">
     </td>
 </tr>
 
