@@ -12,7 +12,7 @@
 💼 LinkedIn: www.linkedin.com/in/ali-haider
  
 <h2>Tech Stack</h2>
-
+</p>
 <table width="100">
 <tr>
   <td align='center' width="200">
