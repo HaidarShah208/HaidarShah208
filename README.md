@@ -4,28 +4,21 @@
   </div>
 <p align="center">
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-
-
+💸 NEW SELLER of Mern Stack Developer on Fiverr
 ✨ Favorite Tech: js, React, Nextjs
-
-📓 I’m currently learning TypeScript and Genrative AI... 
-
-📧 alhi7896542@gmail.com
-
-🎨 Portfolio:https://portfolio-ten-theta-75.vercel.app/
-
-💼 LinkedIn:https://www.linkedin.com/in/ali-haider-5181a5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-- 🔭 Currently Learning As MERN Stack.
-
-- <h2><i>💻 Tech Stack</i></h2>
+📓 I’m currently learning TypeScript and Genrative AI... 😭
+📧 mailto:  <a href="mailto:alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>
+🎨 Portfolio: https://portfolio-ten-theta-75.vercel.app/
+💼 LinkedIn: www.linkedin.com/in/ali-haider
+ 
+<h2>Tech Stack</h2>
 
 <table width="100">
 <tr>
   <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
     </td>
- <td align='center' width="200"> 
+ <td align='center' width="200">
         <img src="https://icons.iconarchive.com/icons/ampeross/qetto/256/css-icon.png" width="80">
     </td>
 <td align='center' width="200">
@@ -37,12 +30,15 @@
     <td align='center' width="200">
         <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/256/nextjs-icon.png" width="100">
     </td>
+
+
 </tr>
+
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="100">
     </td>
-   
+    
     <td align='center' width="200">
         <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/firebase-icon.png"  width="100">
     </td>
@@ -77,10 +73,10 @@
     <td align='center' width="200">
         <img src="https://img.freepik.com/premium-psd/api-setting-3d-icon_136651-1168.jpg" width="100">
     </td>
-    <td align='center'>
-        <img src="https://www.linkpicture.com/q/download_193.jpg">
     <td align='center' width="200">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3628992-3030217.png"  width="100">
     </td>
 
 </tr>
+    
+</table>
