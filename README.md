@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Ijjaz Ahmad👋</h1>
+    <h1> Hi there, I'm Ali Haidar👋</h1>
   </div>
 <p align="center">
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -11,13 +11,12 @@
 
 📓 I’m currently learning TypeScript and Genrative AI... 😭
 
-📧 mailto:  <a href="mailto:ijjazahmad705@gmail.com" target="blank">ijjazahmad705@gmail.com</a>
+📧 mailto:  <a href="alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>
 
-🎨 Portfolio: https://ijjazahmad11.web.app/
+🎨 Portfolio:https://portfolio-ten-theta-75.vercel.app/ 
 
-💼 LinkedIn: www.linkedin.com/in/ijjazahmad
+💼 LinkedIn:https://www.linkedin.com/in/ali-haider-5181a5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-📷 Instagram : www.instagram.com/ch_ijjazahmad
  
 <h2>Tech Stack</h2>
 
