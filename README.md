@@ -17,12 +17,6 @@
 💼 LinkedIn:https://www.linkedin.com/in/ali-haider-5181a5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 - 🔭 Currently Learning As MERN Stack.
-- 👨‍🏫 **MERN** Stack Developer
-  .
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Eager to learn Mern stack developoing and AI learning.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **alhi7896542@gmail.com**.
 
 - <h2><i>💻 Tech Stack</i></h2>
 
