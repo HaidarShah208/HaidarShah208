@@ -8,11 +8,13 @@
 
 ✨ Favorite Tech: js, React, Nextjs
 
-📓 I’m currently learning Mongo DB and Genrative AI... 
+📓 I’m currently learning TypeScript and Genrative AI... 
 
 📧 alhi7896542@gmail.com
 
-🎨 Portfolio: 
+🎨 Portfolio:https://portfolio-ten-theta-75.vercel.app/
+
+💼 LinkedIn:https://www.linkedin.com/in/ali-haider-5181a5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 - 🔭 Currently Learning As MERN Stack.
 - 👨‍🏫 **MERN** Stack Developer
