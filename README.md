@@ -9,7 +9,7 @@
 
 ✨ Favorite Tech: js, React, Nextjs
 
-📓 I’m currently learning TypeScript and Genrative AI... 😭
+📓 I’m currently learning Python and Genrative AI... 😭
 
 📧 mailto:  <a href="alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>
 
