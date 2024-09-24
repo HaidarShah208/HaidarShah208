@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Ali Haidar👋</h1>
   </div>
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 💸 NEW SELLER of Mern Stack Developer on Fiverr
 
@@ -13,7 +13,15 @@
 
 📧 mailto:  <a href="alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>
 
-🎨 Portfolio:https://portfolio-ten-theta-75.vercel.app/ 
+🎨 Portfolio: 
+
+- 🔭 Currently Learning DSA.
+- 👨‍🏫 *MERN* Stack Developer
+  .
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Eager to learn Mern stack developoing and AI learning.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me <a href="alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>.
 
 💼 LinkedIn:https://www.linkedin.com/in/ali-haider-5181a5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
