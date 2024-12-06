@@ -94,6 +94,9 @@
     <td align='center' width="200">
         <img src="https://res.cloudinary.com/da5dsklyq/image/upload/v1733470978/download-removebg-preview_yo1h3k.png"  width="100">
     </td>
+    <td align='center' width="200">
+        <img src="https://res.cloudinary.com/da5dsklyq/image/upload/v1733471841/download__1_-removebg-preview_xued14.png"  width="100">
+    </td>
   
    
 </tr>
