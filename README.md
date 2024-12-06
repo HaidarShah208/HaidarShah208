@@ -91,6 +91,9 @@
     <td align='center' width="200">
         <img src="https://res.cloudinary.com/da5dsklyq/image/upload/v1733469974/download_wbanzs.jpg"  width="100">
     </td>
+    <td align='center' width="200">
+        <img src="https://res.cloudinary.com/da5dsklyq/image/upload/v1733470505/download_vboujn.jpg"  width="100">
+    </td>
   
    
 </tr>
