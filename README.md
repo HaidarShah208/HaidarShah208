@@ -3,9 +3,9 @@
     <h1> Hi there, I'm Ali Haidar👋</h1>
   </div>
 <p align="center">
-<!-- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a> -->
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
-💸 NEW SELLER of MERN Stack Developer on Fiverr
+💸 NEW SELLER of Full Stack Developer on Fiverr
 
 ✨ Favorite Tech: js, Nextjs, Python
 
@@ -16,11 +16,11 @@
 🎨 Portfolio: 
 
 - 🔭 Currently Learning DSA.
-- 👨‍🏫 *MERN* Stack Developer
+- 👨‍🏫 *Full* Stack Developer
   .
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Eager to learn Mern Python and AI learning.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me <a href="alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>.
 
 💼 LinkedIn:https://www.linkedin.com/in/ali-haidar-5181a5276/
