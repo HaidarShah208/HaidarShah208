@@ -8,7 +8,9 @@
 💸 NEW SELLER of Full Stack Developer on Fiverr
 
 ✨ Favorite Tech: js, Nextjs, Python
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-hanan79&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-hanan79" /> </p>
 
+<p align="left"> <a href="https://twitter.com/hanan_rajpoot01" target="blank"><img src="https://img.shields.io/twitter/follow/hanan_rajpoot01?logo=twitter&style=for-the-badge" alt="hanan_rajpoot01" /></a> </p>
 📓 I’m currently learning Python and Genrative AI... 😭
 
 📧 mailto:  <a href="alhi7896542@gmail.com" target="blank">alhi7896542@gmail.com </a>
